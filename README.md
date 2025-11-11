@@ -68,7 +68,7 @@ pip install tkinterdnd2
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/<your-username>/instagram-photo-resizer.git
+   git clone https://github.com/ankitshivane/instagram_resizer.git
    cd instagram-photo-resizer
 
 2. Create and activate a virtual environment:
